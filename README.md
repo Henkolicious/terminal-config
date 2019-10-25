@@ -1,4 +1,4 @@
-"# terminal-config" 
+# terminal-config
 
 <pre>
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
