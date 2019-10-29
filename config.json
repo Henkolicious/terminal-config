@@ -18,8 +18,9 @@
             "commandline": "cmd.exe",
             "hidden": false,
             "colorScheme": "HenkoliciousCMD",
+            // https://res.cloudinary.com/practicaldev/image/fetch/s--LBM53ShP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3u7x3b3otmyh6kytychp.gif
             // img url: https://res.cloudinary.com/practicaldev/image/fetch/s--kTsDcTzl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8ysw6hfoj1a61ovz0us.gif
-            "backgroundImage": "C:\\maigchorse.gif",
+            "backgroundImage": "C:\\unicorn.gif",
             "backgroundImageAlignment": "topRight",
             "backgroundImageStretchMode":"none",
             "acrylicOpacity": 0.1,
