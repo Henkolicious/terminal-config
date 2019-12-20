@@ -2,7 +2,7 @@
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6103}",
+    "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
     "profiles": [
         {
             "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
@@ -17,7 +17,7 @@
             "hidden": false,
             "colorScheme": "HenkoliciousColorSchemeCMD",
             "backgroundImage": "https://media.giphy.com/media/l1J3rHmZ4Wlj8nII0/giphy.gif",
-            "backgroundImageOpacity": 0.1,
+            "backgroundImageOpacity": 0.3,
             "useAcrylic": false
         },
         {
@@ -53,11 +53,21 @@
             "hidden": false,
             "colorScheme": "HenkoliciousColorSchemeCMD",
             "backgroundImage": "https://media.giphy.com/media/kgIYsj6t0XQmmvogQm/giphy.gif",
-            "backgroundImageAlignment": "topRight",
-            "backgroundImageStretchMode": "none",
+            "backgroundImageAlignment": "center",
+            "backgroundImageStretchMode": "none",            
             "backgroundImageOpacity": 1,
             "acrylicOpacity": 1,
             "useAcrylic": true
+        },
+        {
+            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6104}",
+            "name": "santa",
+            "commandline": "cmd.exe",
+            "hidden": false,
+            "colorScheme": "HenkoliciousColorSchemeCMD",
+            "backgroundImage": "https://media.giphy.com/media/U8B0rg7IKyITKJNEVa/giphy.gif",
+            "backgroundImageOpacity": 0.3,
+            "useAcrylic": false
         },
         {
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
